@@ -2,6 +2,8 @@
 ## Provided by BXE
 ## Designed By Bill Downey (Tommy)
 
+![alt text](https://github.com/brown2250/W.H-Porter-Trucking/blob/master/logo_Blue%20truck.PNG)
+
 You can use the [editor on GitHub](https://github.com/brown2250/W.H_Porter_Trucking/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -25,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![logo_Blue truck.PNG](github.com/brown2250/W.H_Porter_Trucking)
+
 ```
 ![alt text](https://github.com/brown2250/W.H-Porter-Trucking/blob/master/logo_Blue%20truck.PNG)
 
