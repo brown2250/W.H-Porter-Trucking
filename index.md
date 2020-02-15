@@ -27,6 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![logo_Blue truck.PNG](github.com/brown2250/W.H_Porter_Trucking)
 ```
+https://github.com/brown2250/W.H-Porter-Trucking/blob/master/logo_Blue%20truck.PNG
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
