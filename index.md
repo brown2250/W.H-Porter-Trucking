@@ -1,5 +1,5 @@
-## Welcome to W.H. Porter Trucking page, 
-## provided by BXE
+## Welcome to W.H. Porter Trucking page 
+## Provided by BXE
 ## Designed By Bill Downey (Tommy)
 
 You can use the [editor on GitHub](https://github.com/brown2250/W.H_Porter_Trucking/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
